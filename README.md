@@ -1,5 +1,7 @@
 # Journey Builder for APPS SDK for Cordova/PhoneGap
 
+[![Join the chat at https://gitter.im/DeloitteDigital/JB4A-SDK-CordovaPlugin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DeloitteDigital/JB4A-SDK-CordovaPlugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Cordova plugin that implements the Journey Builder for APPS SDK to add push functionality to your Phonegap or Cordova applications.
 
 ## Release History
